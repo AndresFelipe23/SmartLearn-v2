@@ -37,7 +37,7 @@ pass: "wwcsywlqvbksltne"
 - [@AndresFelipe23](https://github.com/AndresFelipe23)
 - [@ggaleanoguerra](https://github.com/ggaleanoguerra)
 - [@AndresFE22](https://github.com/AndresFE22)
-
+- Además de compañeros del curso de DISEÑO Y DESARROLLO DE SOFTWARE EDUCATIVO III del 2023-2
 
 
 
